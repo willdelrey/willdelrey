@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor back-end e estudante de Engenharia de software, tenho 20 anos e gosto muito de tecnologia.
+    Sou pesquisador na area de computação, tenho 22 anos e estudo na ufabc.
      
   </p>
   
